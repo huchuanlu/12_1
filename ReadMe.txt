@@ -2,6 +2,7 @@ This code is a MATLAB implementation of the tracking algorithm described in CVPR
         "Robust Object Tracking via Sparsity-based Collaborative Model" 
                by Wei Zhong, Huchuan Lu and Ming-Hsuan Yang.
 
+[Click to download dataset](https://d.pcs.baidu.com/file/81dc6da8981d4b2cefe2f01012b472ed?fid=2442663175-250528-362388564604004&dstime=1527848400&rt=sh&sign=FDtAERV-DCb740ccc5511e5e8fedcff06b081203-W3deVRVXKb7HS29d6qidBy91B5E%3D&expires=8h&chkv=1&chkbd=0&chkpc=&dp-logid=3519833171779140687&dp-callid=0&r=986021164)
 
 ***********************************************************************
 The code runs on Windows XP with MATLAB R2009b.
